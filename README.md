@@ -8,6 +8,12 @@
 
 🏃‍♂️ My hobbies are running, chess, reading and karting
 
+🤹 My skills and experience:
+- iOS (Swift, SwiftUI, Objective-C)
+- Flutter (Dart)
+- Android (Java, Kotlin)
+- Unity (C#)
+
 📫 How to reach me: 
   - e-mail: nurlan.dzhavadov@gmail.com
   - Instagram: instagram.com/nurlan_dzhavadov
