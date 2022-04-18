@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**nurlan-dzhavadov/nurlan-dzhavadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😊 I'm Nurlan from Moscow and I'm a self-taught iOS Developer. My passion for programming started in 2019. And the rest is history (at least that's how I see it 😄).
 
-Here are some ideas to get you started:
+🌱 I’m currently learning WebRTC, OOP and Blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📹 I'm currently working on a serverless WebRTC app
+
+🏃‍♂️ My hobbies are running, chess, reading and karting
+
+📫 How to reach me: 
+  - e-mail: nurlan.dzhavadov@gmail.com
+  - Instagram: instagram.com/nurlan_dzhavadov
+  - Telegram: t.me/nurlan_dzhavadov
