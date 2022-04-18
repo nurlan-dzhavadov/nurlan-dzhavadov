@@ -9,7 +9,7 @@
 🏃‍♂️ My hobbies are running, chess, reading and karting
 
 🤹 My skills and experience:
-- iOS (Swift, SwiftUI, Objective-C)
+- iOS (UIKit, SwiftUI, Objective-C)
 - Flutter (Dart)
 - Android (Java, Kotlin)
 - Unity (C#)
